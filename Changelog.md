@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.7.2](https://github.com/sidorares/node-mysql2/compare/v3.7.1...v3.7.2) (2024-01-22)
+
+
+### Bug Fixes
+
+* The removeIdleTimeoutConnectionsTimer did not clean up when the … ([#2384](https://github.com/sidorares/node-mysql2/issues/2384)) ([18a44f6](https://github.com/sidorares/node-mysql2/commit/18a44f6a0a0b7ef41cc874d7a7bb2d3db83ea533))
+
 ## [3.7.1](https://github.com/sidorares/node-mysql2/compare/v3.7.0...v3.7.1) (2024-01-17)
 
 
